@@ -444,6 +444,44 @@ bottom:470px;
   color: red;
 }
 
+.face{
+  bottom: 8px;
+  position: relative;
+
+}
+.insta{
+  bottom: 11px;
+  position: relative;
+}
+
+.lin{
+  bottom: 11px;
+  position: relative; 
+}
+
+/* .zoom h4:hover {
+  transform: scale(1.2);
+} */
+
+.zoom h4:hover  {
+  /* display: inline-block; */
+  transition: transform 0.3s ease-in-out;
+  color: #ffc451;
+
+}
+
+.zoom h4:hover {
+  transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
 
 
 #hero {
